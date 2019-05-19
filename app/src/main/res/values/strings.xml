@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="comfort">舒适度：%s</string>
+    <string name="carwash">洗车建议：%s</string>
+    <string name="sport">出行建议：%s</string>
+    <string name="tmpsymbol">%s℃</string>
+
+</resources>

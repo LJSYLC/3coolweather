@@ -1,0 +1,14 @@
+<litepal>
+
+    <dbname value="iuweather"/>
+    <version value="2"/>
+
+    <list>
+        <mapping class="com.lice.iuweather.db.CityNode"/>
+        <mapping class="com.lice.iuweather.db.Province"/>
+        <mapping class="com.lice.iuweather.db.City"/>
+        <mapping class="com.lice.iuweather.db.County"/>
+
+    </list>
+
+</litepal>
